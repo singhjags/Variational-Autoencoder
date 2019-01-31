@@ -40,7 +40,10 @@ Run file `vae_celeba_new.py` providing the correct dataroot folder
 
 
 
-
+results are the files
+1. Autoencoder for CUFS dataset: autoencoder_recon.png
+2. Variational Autoencoder for CUFS : vae_recon.png
+3. Variational Autoencoder for Celeba : vae_celeba_1.png and vae_celeba_2.png
 ############
 
 References
